@@ -4,4 +4,11 @@ class Product{
         this.price = price;
     }
 }
+
+class Category{
+    constructor(name){
+        this.name = name;
+    }
+}
+
 console.log("Hello from index.js!");
